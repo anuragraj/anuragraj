@@ -7,12 +7,13 @@ Here are some ideas to get you started:
 
 -->
 
-- 👨‍🎓 I'm Ph.D graduate in bioinformatics and compuatational proteomics.
-- 🔭 I work on developing methods and analysis workflows for proteomics and proteogenomics.
-- 🌱 I keep learning about machine learning and advanced proteomics analysis methods.
-- 👯 I’m looking to collaborate on different bioinformatics analyses in the field of proteomics and genomics.
-- 💬 Ask me about bioinformatics and proteomics. Also, about India ;)
-- 📫 How to reach me: [anuragraj_](https://twitter.com/anuragraj_)
-- ⚡ Fun fact: Beginner to photography
+- 👨‍🔬 I’m a Postdoctoral Associate in the Karikari Lab at the University of Pittsburgh, with a PhD in Bioinformatics and a background in computational proteomics.
+- 🔭 I study blood biomarkers for Alzheimer’s disease, especially how plasma p-tau217 relates to PET imaging and how sample handling affects biomarker measurements.
+- 🌱 I’m exploring machine learning for biomarker analysis and building reproducible workflows for proteomics.
+- 👯 I’m open to collaborating on neurodegeneration biomarker studies, proteomics, and proteogenomics.
+- 💬 Ask me about bioinformatics, R visualization, or travel in India.
+- 📫 Find me on X at [@anuragraj_](https://twitter.com/anuragraj_).
+- 📷 Outside the lab, I enjoy travel photography and making generative art in R.
+
 
 
